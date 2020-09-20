@@ -49,3 +49,5 @@ Las fintech en Perú
 
 Después de esta investigación tuvimos la oportunidad de poder reunirnos nuevamente con Leandro Sono, quien nos aclaró dudas acerca de cómo nació Banqui, reiterándonos el compromiso de Banqui con la sociedad en aras de fomentar una cultura de ahorro y cómo es que Banqui capta los ahorros del cliente por medio de una cuenta digital. La documentación de dicha investigación se encuentra disponible aquí [href= https://docs.google.com/document/d/1_ETqXhP-16c3YDanLb_Br3qN172TrQCVfYMFyMY_Dx0/edit#heading=h.9k4wbtktxdg4]
 
+
+### 1.1.5 User persona: Screener, entrevistas y testing
